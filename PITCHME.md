@@ -16,6 +16,7 @@
 * スマデチームとしていつでもアウトプットできるように日々学んでる
 * 最近はこんなにアウトプットしている
 
+# <div style="text-align: center;"><font color="red">！！！</font></div>
 ---
 
 ### INTEC交流会
