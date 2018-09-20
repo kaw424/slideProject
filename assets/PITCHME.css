@@ -1,6 +1,7 @@
 .main-message {
     width: 90%;
     color: #222222;
+    font-size: 20px;
     background-color: #999999;
     border-radius: 20px;
     margin: 100px 0 0 10px !important;
