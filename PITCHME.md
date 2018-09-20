@@ -14,9 +14,10 @@
 @snap[west main-message]
  アウトプットすることで周りの人を巻き込んで成長する
 @snapend
-
+@snap[south-west]
 アウトプット → 自分の勉強＋モチベーションアップ
 　　↑←　　他の人のモチベーションアップ　　←↓
+@snapend
 
 ---
 
