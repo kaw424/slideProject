@@ -13,7 +13,9 @@
 @snapend
 
 @snap[north-west main-message]
-<span style="font-size: xx-large;">スマデチームはアウトプットすることで</br>周りの人を巻き込んで成長してる。アウトプット大事。</span>
+<span style="font-size: xx-large;">
+  スマデチームはアウトプットすることで、</br>周りの人を巻き込んで成長してる。アウトプット大事。
+</span>
 @snapend
 
 @snap[midpoint output-m]
@@ -32,27 +34,32 @@
 スマデの最近のアウトプット活動
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large">スマデはチームや部門の他に</br>他事業・社外にまでアウトプットして影響を与えている</span>
+<span style="font-size: xx-large">
+  スマデチームはPJや部門はもちろん、</br>他事業・社外にまでアウトプットして影響を与えている
+</span>
 @snapend
 
 @snap[west body-message]
 <ul>
-  <li>iOS/Android育成コンテンツ（新人）</li>
-  <li>勉強会（2年目〜）</li>
+  <li>iOS/Android育成コンテンツ（新人新人向け）</li>
+  <li>勉強会（2年目以降向け）</li>
   <li>INTEC交流会</li>
   <li>第一回技術ナレッジ共有会</li>
   <li>第二回技術ナレッジ共有会</li>
   <li>その他</li>
 </ul>
-@snapend
+@snape
 
 ---
 
 @snap[north-west]
-iOS/Android育成コンテンツ（新人）
+iOS/Android育成コンテンツ（新人向け）
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large"></span>
+<span style="font-size: xx-large">
+  新しくAndroid/iOSを学ぶ人向けのコンテンツ</br>
+  ７月からPJ配属された新人向けに実施中
+</span>
 @snapend
 
 @snap[west body-message]
@@ -65,16 +72,23 @@ iOS/Android育成コンテンツ（新人）
 ---
 
 @snap[north-west]
-勉強会（2年目〜）
+勉強会（2年目以降向け）
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large"></span>
+<span style="font-size: xx-large">２年目以降向けとして、</br>最近の技術や、そのキャッチアップ方法などの勉強会を実施している</span>
 @snapend
 
 @snap[west body-message]
 <ul>
-  <li>Android: 最新情報キャッチアップ</li>
-  <li>iOS: 基礎おさらい</li>
+  <li>Android: 最新情報キャッチアップ
+    <ul>
+      <li><a href="">URL</a></li>
+      <li>気にある人がいればいつでも見にきていいそうです</li>
+    </ul>
+  </li>
+  <li>iOS: 基礎おさらい
+    <ul><li><a>URL</a></li></ul>
+  </li>
 </ul>
 @snapend
 
@@ -105,12 +119,12 @@ INTEC交流会
 その他
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large"></span>
+<span style="font-size: xx-large">アプリとしてのナレッジを共有して</span>
 @snapend
 
 @snap[west body-message]
 <ul>
-  <li>甲斐さんや蓮香さんからちょくちょく相談きてる</li>
+  <li>一部の人から個別に相談を受けている</li>
   <li>webはこうだけどアプリとしてはどうなんだっけ？</li>
   <li>アプリとしてのナレッジを共有</li>
   <li>他にもアプリってこういう時どうするの？など聞きたいことあれば、スマデチームまでどうぞ</li>
