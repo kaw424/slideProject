@@ -44,6 +44,11 @@
 |mm/dd|iOS/Android育成コンテンツ（新人）
 |mm/dd|勉強会（2年目〜）
 |mm/dd|その他
+
+| 現場 | 言語
+|:--|:--
+|iOSアプリ開発|Swift, Objective-C
+|Androidアプリ開発|Java
 @snapend
 
 ---
