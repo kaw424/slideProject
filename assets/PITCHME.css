@@ -18,12 +18,7 @@
     margin-top: 30px !important;
 }
 
-.output-w {
-    text-align: left;
-    margin-bottom: 90px !important;
-}
-
-.output-e {
+.output-w .output-e {
     text-align: left;
     margin-bottom: 10px !important;
 }
