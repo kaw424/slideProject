@@ -12,7 +12,7 @@
 今日伝えたいこと
 @snapend
 @snap[north-west main-message]
-<span style="font-size: x-small">アウトプットすることで周りの人を巻き込んで成長する</span>
+<span style="font-size: medium">アウトプットすることで周りの人を巻き込んで成長する</span>
 @snapend
 @snap[west body-message]
 アウトプット → 自分の勉強＋モチベーションアップ
