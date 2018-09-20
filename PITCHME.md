@@ -35,7 +35,7 @@
 @snapend
 @snap[north-west main-message]
 <span style="font-size: xx-large">
-  スマデチームはPJや流サ１はもちろん、</br>他部門・社外にまでアウトプットして影響を与えている
+  スマデチームはPJや流サ1へはもちろん、</br>他部門・社外にまでアウトプットして影響を与えている
 </span>
 @snapend
 
@@ -43,9 +43,9 @@
 <ul>
   <li>iOS/Android育成コンテンツ（新人向け）</li>
   <li>勉強会（2年目以降向け）</li>
-  <li>INTEC交流会</li>
   <li>第一回技術ナレッジ共有会</li>
   <li>第二回技術ナレッジ共有会</li>
+  <li>INTEC交流会</li>
   <li>その他</li>
 </ul>
 @snape
@@ -104,7 +104,7 @@ iOS/Android育成コンテンツ（新人向け）
 第一回技術ナレッジ共有会
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large">流サ1としてhogehogeなどを発表</br>
+<span style="font-size: xx-large">流サ1としてhogehogeなどをイケイケな発表</br>
 他部門へのアウトプット
 </span>
 @snapend
@@ -129,9 +129,16 @@ iOS/Android育成コンテンツ（新人向け）
 INTEC交流会
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large">AP基盤のミッションでもあるINTEC交流</br>
+<span style="font-size: xx-large">TISとしてAWSや</br>
 社外のINTECへのアウトプット
 </span>
+@snapend
+
+@snap[west body-message]
+<ul>
+  <li>AP基盤とも連携を取りながらINTECと交流</li>
+  <li></li>
+</u>
 @snapend
 
 ---
