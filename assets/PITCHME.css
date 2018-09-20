@@ -99,5 +99,6 @@ div.activity-details {
 }
 
 .main-message {
+    width: 75%;
     background-color: #999999;
 }
