@@ -13,7 +13,7 @@
 @snapend
 
 @snap[north-west main-message]
-<span style="font-size: xx-large;">アウトプットは周りの人を巻き込んで成長することができる</span>
+<span style="font-size: xx-large;">スマデチームはアウトプットすることで周りの人を巻き込んで成長してる</span>
 @snapend
 
 @snap[midpoint output-m]
@@ -29,14 +29,13 @@
 ---
 
 @snap[north-west]
-今日伝えたいこと
+スマデの最近のアウトプット活動
 @snapend
 @snap[north-west main-message]
 <span style="font-size: xx-large">スマデはチーム外・部門外・社外にまでアウトプットして</br>影響を与えている</span>
 @snapend
 
 @snap[west body-message]
-<h4>スマデの最近のアウトプット活動</h4>
 <ul>
   <li>iOS/Android育成コンテンツ（新人）</li>
   <li>勉強会（2年目〜）</li>
