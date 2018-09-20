@@ -18,9 +18,11 @@
 }
 
 .output-w {
+    text-align: left;
     margin-bottom: 90px !important;
 }
 
 .output-e {
+    text-align: left;
     margin-bottom: 10px !important;
 }
