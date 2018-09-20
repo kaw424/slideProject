@@ -55,8 +55,12 @@ iOS/Android育成コンテンツ（新人）
 <span style="font-size: xx-large"></span>
 @snapend
 
-- 以前福岡さんの発表でもあったが、新人育成コンテンツ作成
-- BPや他の部にも展開してる
+@snap[west body-message]
+<ul>
+  <li>以前福岡さんの発表でもあったが、新人育成コンテンツ作成</li>
+  <li>BPや他の部にも展開してる</li>
+</ul>
+@snapend
 
 ---
 
@@ -67,9 +71,12 @@ iOS/Android育成コンテンツ（新人）
 <span style="font-size: xx-large"></span>
 @snapend
 
-- Android: 最新情報キャッチアップ
-- iOS: 基礎おさらい
-
+@snap[west body-message]
+<ul>
+  <li>Android: 最新情報キャッチアップ</li>
+  <li>iOS: 基礎おさらい</li>
+</ul>
+@snapend
 
 ---
 
@@ -101,11 +108,15 @@ INTEC交流会
 <span style="font-size: xx-large"></span>
 @snapend
 
-- 甲斐さんや蓮香さんからちょくちょく相談きてる
- - webはこうだけどアプリとしてはどうなんだっけ？
-- アプリとしてのナレッジを共有
-- 他にもアプリってこういう時どうするの？など聞きたいことあれば、スマデチームまでどうぞ
+@snap[west body-message]
+<ul>
+  <li>甲斐さんや蓮香さんからちょくちょく相談きてる</li>
+  <li>webはこうだけどアプリとしてはどうなんだっけ？</li>
+  <li>アプリとしてのナレッジを共有</li>
+  <li>他にもアプリってこういう時どうするの？など聞きたいことあれば、スマデチームまでどうぞ</li>
+</ul>
+@snapend
 
 ---
 
-### fin
+### fin.
