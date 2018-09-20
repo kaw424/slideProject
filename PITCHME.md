@@ -11,10 +11,10 @@
 @snap[north-west]
 今日伝えたいこと
 @snapend
-@snap[west main-message]
+@snap[north-west main-message]
  アウトプットすることで周りの人を巻き込んで成長する
 @snapend
-@snap[south-west]
+@snap[west]
 アウトプット → 自分の勉強＋モチベーションアップ
 　　↑←　　他の人のモチベーションアップ　　←↓
 @snapend
