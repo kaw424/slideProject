@@ -12,9 +12,9 @@
 今日伝えたいこと
 @snapend
 @snap[north-west main-message]
-<font　size="1">アウトプットすることで周りの人を巻き込んで成長する</font>
+<i>アウトプットすることで周りの人を巻き込んで成長する</i>
 @snapend
-@snap[west]
+@snap[west body-message]
 アウトプット → 自分の勉強＋モチベーションアップ
 　　↑←　　他の人のモチベーションアップ　　←↓
 @snapend
