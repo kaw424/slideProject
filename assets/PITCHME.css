@@ -1,5 +1,5 @@
 .main-message {
-    width: 90%;
+    width: 100%;
     height: 20%;
     color: #222222;
     font-size: x-small;
@@ -11,4 +11,16 @@
 
 .body-message {
     margin-top: 60px !important;
+}
+
+.　output-mid {
+    margin-top: 30px;
+}
+
+.　output-west {
+    margin-bottom: 40px;
+}
+
+.　output-east {
+    margin-bottom: 10px;
 }
