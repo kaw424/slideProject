@@ -35,7 +35,7 @@
 <span style="font-size: xx-large">スマデはチーム外・部門外・社外にまでアウトプットして</br>影響を与えている</span>
 @snapend
 
-@snap[midpoint]
+@snap[west body-message]
 <h4>スマデの最近のアウトプット活動</h4>
 <ul>
   <li>iOS/Android育成コンテンツ（新人）</li>
