@@ -41,7 +41,7 @@
 
 @snap[west body-message]
 <ul>
-  <li>iOS/Android育成コンテンツ（新人新人向け）</li>
+  <li>iOS/Android育成コンテンツ（新人向け）</li>
   <li>勉強会（2年目以降向け）</li>
   <li>INTEC交流会</li>
   <li>第一回技術ナレッジ共有会</li>
@@ -64,7 +64,12 @@ iOS/Android育成コンテンツ（新人向け）
 
 @snap[west body-message]
 <ul>
-  <li>以前福岡さんの発表でもあったが、新人育成コンテンツ作成</li>
+  <li>アプリ新人育成コンテンツ
+    <ul>
+      <li>基本的な勉強方針・参考になる資料</li>
+      <li>アプリのライフスタイル理解や画面/レイアウトの作成課題</li>
+      <li>サンプルアプリの実装</li>
+  </li>
   <li>BPや他の部にも展開してる</li>
 </ul>
 @snapend
@@ -75,18 +80,18 @@ iOS/Android育成コンテンツ（新人向け）
 勉強会（2年目以降向け）
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large">２年目以降向けとして、</br>最近の技術や、そのキャッチアップ方法などの勉強会を実施している</span>
+<span style="font-size: xx-large">２年目以降向けとして、改めて基礎のおさらいや</br>最近の技術や、そのキャッチアップ方法などの勉強会を実施している</span>
 @snapend
 
 @snap[west body-message]
 <ul>
-  <li>Android: 最新情報キャッチアップ
+  <li>Android勉強会
     <ul>
       <li><a href="">URL</a></li>
       <li>気にある人がいればいつでも見にきていいそうです</li>
     </ul>
   </li>
-  <li>iOS: 基礎おさらい
+  <li>iOS勉強会
     <ul><li><a>URL</a></li></ul>
   </li>
 </ul>
