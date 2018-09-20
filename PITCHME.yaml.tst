@@ -1,7 +1,1 @@
-theme : night
 
-theme-override : assets/css/PITCHME.css
-
-layout : center-left
-
-transition : none
