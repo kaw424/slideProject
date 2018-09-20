@@ -32,7 +32,7 @@
 スマデの最近のアウトプット活動
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large">スマデはチーム外・部門外・社外にまでアウトプットして</br>影響を与えている</span>
+<span style="font-size: xx-large">スマデはチームや部門の他に</br>他事業・社外にまでアウトプットして影響を与えている</span>
 @snapend
 
 @snap[west body-message]
