@@ -11,7 +11,7 @@
 @snap[north-west]
 今日伝えたいこと
 @snapend
-@snap[north]
+@snap[west main-message]
  アウトプットすることで周りの人を巻き込んで成長する
 @snapend
 
