@@ -19,10 +19,10 @@
 @snap[south-west output-w]
 周りの人のモチベーションアップ
 @snapend
-@snap[midpoint]
+@snap[midpoint output-m]
 アウトプット
 @snapend
-@snap[south-east]
+@snap[south-east output-e]
 自分の勉強
 モチベーションアップ
 @snapend
@@ -45,10 +45,6 @@
 |mm/dd|勉強会（2年目〜）
 |mm/dd|その他
 
-| 現場 | 言語
-|:--|:--
-|iOSアプリ開発|Swift, Objective-C
-|Androidアプリ開発|Java
 @snapend
 
 ---
