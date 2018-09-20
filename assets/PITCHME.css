@@ -97,3 +97,7 @@ div.activity-details {
   color: gray;
   font-size: 0.5em !important;
 }
+
+.main-message {
+    background-color: #999999;
+}
