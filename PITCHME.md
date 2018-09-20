@@ -11,9 +11,11 @@
 @snap[north-west]
 今日伝えたいこと
 @snapend
+
 @snap[north-west main-message]
-<span style="font-size: xx-large; font: bold;">アウトプットは周りの人を巻き込んで成長することができる</span>
+<span style="font-size: xx-large;">アウトプットは周りの人を巻き込んで成長することができる</span>
 @snapend
+
 @snap[south-west　output-w]
 周りの人のモチベーションアップ
 @snapend
