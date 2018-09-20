@@ -16,15 +16,15 @@
 <span style="font-size: xx-large;">アウトプットは周りの人を巻き込んで成長することができる</span>
 @snapend
 
-@snap[south-west output-w]
-周りの人のモチベーションアップ
-@snapend
 @snap[midpoint output-m]
 アウトプット
 @snapend
 @snap[south-east output-e]
-自分の勉強
+自分の勉強</br>
 モチベーションアップ
+@snapend
+@snap[south-west output-w]
+周りの人の</br>モチベーションアップ
 @snapend
 
 ---
