@@ -11,9 +11,9 @@
 @snap[north-west]
 今日伝えたいこと
 @snapend
-<div class="main-message">
+@snap[north]
  アウトプットすることで周りの人を巻き込んで成長する
-</div>
+@snapend
 
 アウトプット → 自分の勉強＋モチベーションアップ
 　　↑←　　他の人のモチベーションアップ　　←↓
