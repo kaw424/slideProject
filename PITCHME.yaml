@@ -1,6 +1,6 @@
 theme : night
 
-theme-override : assets/PITCHME.css
+theme-override : assets/css/PITCHME.css
 
 layout : center-left
 
