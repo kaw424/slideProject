@@ -14,13 +14,13 @@
 @snap[north-west main-message]
 <span style="font-size: xx-large; font: bold;">アウトプットは周りの人を巻き込んで成長することができる</span>
 @snapend
-@snap[south-west]
+@snap[south-west　output-west]
 周りの人のモチベーションアップ
 @snapend
-@snap[midpoint]
+@snap[midpoint　output-mid]
 アウトプット
 @snapend
-@snap[south-east]
+@snap[south-east　output-east]
 自分の勉強
 モチベーションアップ
 @snapend
