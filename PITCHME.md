@@ -8,7 +8,7 @@
 
 ---
 
-@snap[north-east]
+@snap[north-west]
 今日伝えたいこと
 @snapend
 <div class="main-message">
@@ -20,7 +20,7 @@
 
 ---
 
-@snap[north-east]
+@snap[north-west]
 今日伝えたいこと
 @snapend
 スマデはチーム外・部門外・社外にまでアウトプットして影響を与えている
@@ -34,7 +34,7 @@
 
 ---
 
-@snap[north-east]
+@snap[north-west]
 INTEC交流会
 @snapend
 * AP基盤のミッションを一緒に
@@ -42,7 +42,7 @@ INTEC交流会
 
 ---
 
-@snap[north-east]
+@snap[north-west]
 第一回技術ナレッジ共有会
 @snapend
 * 事業部間での発表
@@ -52,7 +52,7 @@ INTEC交流会
 
 ---
 
-@snap[north-east]
+@snap[north-west]
 iOS/Android育成コンテンツ（新人）
 @snapend
 * 以前福岡さんの発表でもあったが、新人育成コンテンツ作成
@@ -61,7 +61,7 @@ iOS/Android育成コンテンツ（新人）
 
 ---
 
-@snap[north-east]
+@snap[north-west]
 勉強会（2年目〜）
 @snapend
 * Android: 最新情報キャッチアップ
@@ -69,7 +69,7 @@ iOS/Android育成コンテンツ（新人）
 
 ---
 
-@snap[north-east]
+@snap[north-west]
 その他
 @snapend
 * 甲斐さんや蓮香さんからちょくちょく相談きてる
