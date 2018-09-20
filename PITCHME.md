@@ -20,11 +20,10 @@
 アウトプット
 @snapend
 @snap[south-east output-e]
-自分の勉強</br>
-モチベーションアップ
+自分の勉強</br>モチベーションアップ |
 @snapend
 @snap[south-west output-w]
-周りの人の</br>モチベーションアップ
+周りの人の</br>モチベーションアップ |
 @snapend
 
 ---
