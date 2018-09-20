@@ -13,7 +13,7 @@
 @snapend
 
 @snap[north-west main-message]
-<span style="font-size: xx-large;">スマデチームはアウトプットすることで周りの人を巻き込んで成長してる</span>
+<span style="font-size: xx-large;">スマデチームはアウトプットすることで</br>周りの人を巻き込んで成長してる。アウトプット大事。</span>
 @snapend
 
 @snap[midpoint output-m]
