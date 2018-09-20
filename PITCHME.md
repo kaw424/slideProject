@@ -8,7 +8,9 @@
 
 ---
 
-### 今日伝えたいこと
+@snap[north-east]
+今日伝えたいこと
+@snapend
 <div class="main-message">
  アウトプットすることで周りの人を巻き込んで成長する
 </div>
