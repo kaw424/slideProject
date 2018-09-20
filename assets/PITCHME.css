@@ -100,5 +100,8 @@ div.activity-details {
 
 .main-message {
     width: 75%;
+    color: #222222;
     background-color: #999999;
+    border-radius: 20px;
+    padding-top: 30px !important;
 }
