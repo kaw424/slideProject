@@ -31,11 +31,11 @@
 ---
 
 @snap[north-west]
-スマデの最近のアウトプット活動
+スマデチームの最近のアウトプット
 @snapend
 @snap[north-west main-message]
 <span style="font-size: xx-large">
-  スマデチームはPJや部門はもちろん、</br>他事業・社外にまでアウトプットして影響を与えている
+  スマデチームはPJや流サ１はもちろん、</br>他部門・社外にまでアウトプットして影響を与えている
 </span>
 @snapend
 
@@ -69,8 +69,9 @@ iOS/Android育成コンテンツ（新人向け）
       <li>基本的な勉強方針・参考になる資料</li>
       <li>アプリのライフスタイル理解や画面/レイアウトの作成課題</li>
       <li>サンプルアプリの実装</li>
+    </ul>
   </li>
-  <li>BPや他の部にも展開してる</li>
+  <li>BPや他部門にも展開してる</li>
 </ul>
 @snapend
 
@@ -80,7 +81,7 @@ iOS/Android育成コンテンツ（新人向け）
 勉強会（2年目以降向け）
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large">２年目以降向けとして、改めて基礎のおさらいや</br>最近の技術や、そのキャッチアップ方法などの勉強会を実施している</span>
+<span style="font-size: xx-large">２年目以降向けとして、改めて基礎のおさらいや</br>最近の技術、そのキャッチアップ方法などの勉強会を実施</span>
 @snapend
 
 @snap[west body-message]
@@ -103,9 +104,23 @@ iOS/Android育成コンテンツ（新人向け）
 第一回技術ナレッジ共有会
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large">他事業へのアウトプット</br>
-第二回の実施も9／14に
-  https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=26283331</span>
+<span style="font-size: xx-large">流サ1としてhogehogeなどを発表</br>
+他部門へのアウトプット
+</span>
+@snapend
+
+@snap[west body-message]
+<ul>
+  <li>発表資料は以下
+    <ul>
+      <li><a href="">URL</a></li>
+    </ul>
+  </li>
+  <li>先週9/14に第二回技術ナレッジ共有会も実施
+    <ul><li><a>URL</a></li></ul>
+  </li>
+</ul>
+
 @snapend
 
 ---
@@ -115,7 +130,8 @@ INTEC交流会
 @snapend
 @snap[north-west main-message]
 <span style="font-size: xx-large">AP基盤のミッションでもあるINTEC交流</br>
-社外のINTECへのアウトプット</span>
+社外のINTECへのアウトプット
+</span>
 @snapend
 
 ---
