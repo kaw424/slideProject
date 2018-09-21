@@ -49,7 +49,7 @@
   <li>勉強会（2年目以降向け）</li>
   <li>第一回技術ナレッジ共有会</li>
   <li>第二回技術ナレッジ共有会</li>
-  <li>INTEC交流会</li>
+  <li>INTEC Tech Cafe</li>
   <li>今後</li>
 </ul>
 @snape
@@ -139,7 +139,7 @@ iOS/Android育成コンテンツ（新人向け）
 ---
 
 @snap[north-west]
-INTEC交流会
+INTEC Tech Cafe
 @snapend
 @snap[north-west key-message]
 <span style="font-size: xx-large">TISとしてAWSなどのイケイケな発表</br>
