@@ -46,7 +46,7 @@
   <li>第一回技術ナレッジ共有会</li>
   <li>第二回技術ナレッジ共有会</li>
   <li>INTEC交流会</li>
-  <li>その他</li>
+  <li>今後</li>
 </ul>
 @snape
 
@@ -144,18 +144,21 @@ INTEC交流会
 ---
 
 @snap[north-west]
-その他
+今後
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large">アプリとしてのナレッジを共有して</span>
+<span style="font-size: xx-large">アプリ特有のナレッジをアウトプットして共有する</span>
 @snapend
 
 @snap[west body-message]
 <ul>
-  <li>一部の人から個別に相談を受けている</li>
-  <li>webはこうだけどアプリとしてはどうなんだっけ？</li>
+  <li>一部の人から個別に相談をもらったりしている
+    <ul>
+      <li>webはこうだけどアプリとしてはどうなるの？</li>
+    </ul>
+  </li>
   <li>アプリとしてのナレッジを共有</li>
-  <li>他にもアプリってこういう時どうするの？など聞きたいことあれば、スマデチームまでどうぞ</li>
+  <li>他にもアプリってこういう時どうするの？など聞きたいことあれば、スマデチームまでご相談ください</li>
 </ul>
 @snapend
 
