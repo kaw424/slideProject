@@ -28,7 +28,9 @@
 周りの人の</br>モチベーションアップ
 @snapend
 
-![Logo](assets/img/cycle.jpg)
+@snap[south]
+![Logo](assets/img/cycle.png)
+@snapend
 
 ---
 
