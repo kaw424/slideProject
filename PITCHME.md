@@ -113,11 +113,11 @@ iOS/Android育成コンテンツ（新人向け）
 <ul>
   <li>発表資料は以下
     <ul>
-      <li><a href="">URL</a></li>
+      <li>https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=24419004</li>
     </ul>
   </li>
   <li>先週9/14に第二回技術ナレッジ共有会も実施
-    <ul><li><a>URL</a></li></ul>
+    <ul><li><a href="https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=27921760">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=27921760</a></li></ul>
   </li>
 </ul>
 
@@ -137,6 +137,7 @@ INTEC交流会
 @snap[west body-message]
 <ul>
   <li>AP基盤とも連携を取りながらINTECと交流</li>
+  <li><第2回目も来週9/27に開催</li>
   <li></li>
 </u>
 @snapend
@@ -160,6 +161,28 @@ INTEC交流会
   <li>アプリとしてのナレッジを共有</li>
   <li>他にもアプリってこういう時どうするの？など聞きたいことあれば、スマデチームまでご相談ください</li>
 </ul>
+@snapend
+
+---
+
+@snap[north-west]
+今日伝えたいこと（再掲）
+@snapend
+
+@snap[north-west main-message]
+<span style="font-size: xx-large;">
+  スマデチームはアウトプットすることで、</br>周りの人を巻き込んで成長してる。アウトプット大事。
+</span>
+@snapend
+
+@snap[midpoint output-m]
+アウトプット
+@snapend
+@snap[south-east output-e]
+自分の勉強</br>モチベーションアップ
+@snapend
+@snap[south-west output-w]
+周りの人の</br>モチベーションアップ
 @snapend
 
 ---
