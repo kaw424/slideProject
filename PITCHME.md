@@ -29,7 +29,7 @@
 @snapend
 
 @snap[south]
-![Logo](assets/img/cycle.png)
+![Logo](assets/img/cycle2.png)
 @snapend
 
 ---
