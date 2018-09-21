@@ -28,6 +28,8 @@
 周りの人の</br>モチベーションアップ
 @snapend
 
+![Logo](assets/img/cycle.jpg)
+
 ---
 
 @snap[north-west]
