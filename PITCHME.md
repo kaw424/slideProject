@@ -106,21 +106,24 @@ iOS/Android育成コンテンツ（新人向け）
 第一回技術ナレッジ共有会
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large">流サ1としてhogehogeなどをイケイケな発表</br>
-他部門へのアウトプット
+<span style="font-size: xx-large">
+  流サ1として人工知能iOSアプリなどのナウい発表</br>
+　　　　他部門へのアウトプット
 </span>
 @snapend
 
 @snap[west body-message]
 <ul>
-  <li>流サ事の2部門５拠点での技術共有会</li>
+  <li>2事業部/4部門/５拠点での技術共有会</li>
   <li>発表資料は以下
     <ul>
-      <li><span style="font-size: large;">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=24419004</span></li>
+      <li><span style="font-size: x-large;">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=24419004</span></li>
     </ul>
   </li>
   <li>先週9/14に第二回技術ナレッジ共有会も実施
-    <ul><li><span style="font-size: large;">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=27921760</span></li></ul>
+    <ul>
+      <li><span style="font-size: x-large;">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=27921760</span></li>
+    </ul>
   </li>
 </ul>
 
@@ -132,7 +135,7 @@ iOS/Android育成コンテンツ（新人向け）
 INTEC交流会
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large">TISとしてAWSや</br>
+<span style="font-size: xx-large">TISとしてAWSなどのイケイケな発表</br>
 社外のINTECへのアウトプット
 </span>
 @snapend
@@ -140,7 +143,17 @@ INTEC交流会
 @snap[west body-message]
 <ul>
   <li>AP基盤とも連携を取りながらINTECと交流</li>
-  <li><第2回目も来週9/27に開催</li>
+  <li>交流会の情報は以下
+    <ul>
+      <li><span style="font-size: x-large;">https://eventon.jp/12708</span></li>
+    </ul>
+  </li>
+  <li>先週9/14に第二回技術ナレッジ共有会も実施
+    <ul>
+      <li><span style="font-size: x-large;">https://eventon.jp/14489</span></li>
+    </ul>
+  </li>
+  <li>第2回目も来週9/27に開催</li>
   <li><span style="font-size: large;"></span></li>
 </u>
 @snapend
