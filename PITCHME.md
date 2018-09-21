@@ -81,7 +81,9 @@ iOS/Android育成コンテンツ（新人向け）
 勉強会（2年目以降向け）
 @snapend
 @snap[north-west main-message]
-<span style="font-size: xx-large">２年目以降向けとして、改めて基礎のおさらいや</br>最近の技術、そのキャッチアップ方法などの勉強会を実施</span>
+<span style="font-size: xx-large">
+  ２年目以降向けとして、改めて基礎のおさらいや</br>最近の技術、そのキャッチアップ方法などの勉強会を実施
+</span>
 @snapend
 
 @snap[west body-message]
@@ -113,7 +115,7 @@ iOS/Android育成コンテンツ（新人向け）
 <ul>
   <li>発表資料は以下
     <ul>
-      <li>https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=24419004</li>
+      <li style="font-size: small">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=24419004</li>
     </ul>
   </li>
   <li>先週9/14に第二回技術ナレッジ共有会も実施
