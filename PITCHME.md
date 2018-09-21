@@ -90,13 +90,15 @@ iOS/Android育成コンテンツ（新人向け）
 <ul>
   <li>Android勉強会
     <ul>
-      <li><a href="">URL</a></li>
-      <li>気にある人がいればいつでも見にきていいそうです</li>
+      <li><span style="font-size: x-large;">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=19629117</span></li>
     </ul>
   </li>
   <li>iOS勉強会
-    <ul><li><a>URL</a></li></ul>
+    <ul>
+      <li><span style="font-size: x-large;">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=22842203</span></li>
+    </ul>
   </li>
+  <li>気にある人がいればいつでも参加可能</li>
 </ul>
 @snapend
 
