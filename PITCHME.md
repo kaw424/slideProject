@@ -116,11 +116,11 @@ iOS/Android育成コンテンツ（新人向け）
   <li>流サ事の2部門５拠点での技術共有会</li>
   <li>発表資料は以下
     <ul>
-      <li><span  style="font-size: small">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=24419004</span></li>
+      <li><span style="font-size: large;">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=24419004</span></li>
     </ul>
   </li>
   <li>先週9/14に第二回技術ナレッジ共有会も実施
-    <ul><li><a href="https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=27921760">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=27921760</a></li></ul>
+    <ul><li><span style="font-size: large;">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=27921760</span></li></ul>
   </li>
 </ul>
 
@@ -141,7 +141,7 @@ INTEC交流会
 <ul>
   <li>AP基盤とも連携を取りながらINTECと交流</li>
   <li><第2回目も来週9/27に開催</li>
-  <li></li>
+  <li><span style="font-size: large;"></span></li>
 </u>
 @snapend
 
