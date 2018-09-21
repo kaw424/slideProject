@@ -102,14 +102,15 @@ iOS/Android育成コンテンツ（新人向け）
       <li><span style="font-size: x-large;">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=22842203</span></li>
     </ul>
   </li>
-  <li>気にある人がいればいつでも参加可能</li>
+  <li>メンバーのスキルを棚卸しして、必要なスキルを計画的に学んでいる</li>
+  <li>気になる人がいればいつでも参加可能</li>
 </ul>
 @snapend
 
 ---
 
 @snap[north-west]
-第一回技術ナレッジ共有会
+技術ナレッジ共有会
 @snapend
 @snap[north-west key-message]
 <span style="font-size: xx-large">
