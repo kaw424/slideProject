@@ -108,7 +108,7 @@ iOS/Android育成コンテンツ（新人向け）
 @snap[north-west key-message]
 <span style="font-size: xx-large">
   流サ1として人工知能iOSアプリなどのナウい発表</br>
-　　　　他部門へのアウトプット
+  他部門へのアウトプット
 </span>
 @snapend
 
