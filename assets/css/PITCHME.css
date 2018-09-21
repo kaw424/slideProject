@@ -33,3 +33,9 @@
     text-align: left;
     margin-bottom: 30px !important;
 }
+
+.reveal section img {
+    background: none;
+    border: none;
+    margin-bottom: 30px !important;
+}
