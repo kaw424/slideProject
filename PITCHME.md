@@ -12,7 +12,7 @@
 今日伝えたいこと
 @snapend
 
-@snap[north-west main-message]
+@snap[north-west key-message]
 <span style="font-size: xx-large;">
   スマデチームはアウトプットすることで、</br>周りの人を巻き込んで成長してる。アウトプット大事。
 </span>
@@ -33,7 +33,7 @@
 @snap[north-west]
 スマデチームの最近のアウトプット
 @snapend
-@snap[north-west main-message]
+@snap[north-west key-message]
 <span style="font-size: xx-large">
   スマデチームはPJや流サ1へはもちろん、</br>他部門・社外にまでアウトプットして影響を与えている
 </span>
@@ -55,7 +55,7 @@
 @snap[north-west]
 iOS/Android育成コンテンツ（新人向け）
 @snapend
-@snap[north-west main-message]
+@snap[north-west key-message]
 <span style="font-size: xx-large">
   新しくAndroid/iOSを学ぶ人向けのコンテンツ</br>
   ７月からPJ配属された新人向けに実施中
@@ -80,7 +80,7 @@ iOS/Android育成コンテンツ（新人向け）
 @snap[north-west]
 勉強会（2年目以降向け）
 @snapend
-@snap[north-west main-message]
+@snap[north-west key-message]
 <span style="font-size: xx-large">
   ２年目以降向けとして、改めて基礎のおさらいや</br>最近の技術、そのキャッチアップ方法などの勉強会を実施
 </span>
@@ -105,7 +105,7 @@ iOS/Android育成コンテンツ（新人向け）
 @snap[north-west]
 第一回技術ナレッジ共有会
 @snapend
-@snap[north-west main-message]
+@snap[north-west key-message]
 <span style="font-size: xx-large">
   流サ1として人工知能iOSアプリなどのナウい発表</br>
 　　　　他部門へのアウトプット
@@ -134,7 +134,7 @@ iOS/Android育成コンテンツ（新人向け）
 @snap[north-west]
 INTEC交流会
 @snapend
-@snap[north-west main-message]
+@snap[north-west key-message]
 <span style="font-size: xx-large">TISとしてAWSなどのイケイケな発表</br>
 社外のINTECへのアウトプット
 </span>
@@ -148,13 +148,11 @@ INTEC交流会
       <li><span style="font-size: x-large;">https://eventon.jp/12708</span></li>
     </ul>
   </li>
-  <li>先週9/14に第二回技術ナレッジ共有会も実施
+  <li>第2回目も来週9/27に開催</li>
     <ul>
       <li><span style="font-size: x-large;">https://eventon.jp/14489</span></li>
     </ul>
   </li>
-  <li>第2回目も来週9/27に開催</li>
-  <li><span style="font-size: large;"></span></li>
 </u>
 @snapend
 
@@ -163,7 +161,7 @@ INTEC交流会
 @snap[north-west]
 今後
 @snapend
-@snap[north-west main-message]
+@snap[north-west key-message]
 <span style="font-size: xx-large">アプリ特有のナレッジをアウトプットして共有する</span>
 @snapend
 
@@ -174,7 +172,6 @@ INTEC交流会
       <li>webはこうだけどアプリとしてはどうなるの？</li>
     </ul>
   </li>
-  <li>アプリとしてのナレッジを共有</li>
   <li>他にもアプリってこういう時どうするの？など聞きたいことあれば、スマデチームまでご相談ください</li>
 </ul>
 @snapend
@@ -185,7 +182,7 @@ INTEC交流会
 今日伝えたいこと（再掲）
 @snapend
 
-@snap[north-west main-message]
+@snap[north-west key-message-oneline]
 <span style="font-size: xx-large;">
   スマデチームはアウトプットすることで、</br>周りの人を巻き込んで成長してる。アウトプット大事。
 </span>
