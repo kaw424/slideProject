@@ -161,7 +161,7 @@ INTEC交流会
 @snap[north-west]
 今後
 @snapend
-@snap[north-west key-message]
+@snap[north-west key-message-oneline]
 <span style="font-size: xx-large">アプリ特有のナレッジをアウトプットして共有する</span>
 @snapend
 
@@ -182,7 +182,7 @@ INTEC交流会
 今日伝えたいこと（再掲）
 @snapend
 
-@snap[north-west key-message-oneline]
+@snap[north-west key-message]
 <span style="font-size: xx-large;">
   スマデチームはアウトプットすることで、</br>周りの人を巻き込んで成長してる。アウトプット大事。
 </span>
