@@ -1,4 +1,4 @@
-.main-message {
+.key-message {
     width: 100%;
     height: 15%;
     color: #222222;
@@ -7,6 +7,17 @@
     border-radius: 20px;
     margin: 100px 0 0 10px !important;
     padding: 10px 10px !important;
+}
+
+.key-message-oneline {
+    width: 100%;
+    height: 15%;
+    color: #222222;
+    font-size: x-small;
+    background-color: #dddddd;
+    border-radius: 20px;
+    margin: 100px 0 0 10px !important;
+    padding: 20px 10px !important;
 }
 
 .body-message {
