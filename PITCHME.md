@@ -205,6 +205,10 @@ INTEC交流会
 周りの人の</br>モチベーションアップ
 @snapend
 
+@snap[south]
+![Logo](assets/img/cycle2.png)
+@snapend
+
 ---
 
 ### fin.
