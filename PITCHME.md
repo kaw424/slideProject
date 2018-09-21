@@ -113,9 +113,10 @@ iOS/Android育成コンテンツ（新人向け）
 
 @snap[west body-message]
 <ul>
+  <li>流サ事の2部門５拠点での技術共有会</li>
   <li>発表資料は以下
     <ul>
-      <li style="font-size: small">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=24419004</li>
+      <li><span  style="font-size: small">https://z1-7900.rickcloud.jp/wiki/pages/viewpage.action?pageId=24419004</span></li>
     </ul>
   </li>
   <li>先週9/14に第二回技術ナレッジ共有会も実施
